@@ -1,0 +1,1 @@
+This is a basic react application which covers all the basics of reactjs to get the clear view of understanding to those who are starting reactjs from the scratch. 
